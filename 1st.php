@@ -1,5 +1,4 @@
 <?php
 
-$string = "Hello World. \n";
-echo $string;
-var_dump($string);
+$name = "elen\n";
+echo $name;
